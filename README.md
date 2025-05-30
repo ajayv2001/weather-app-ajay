@@ -40,7 +40,7 @@ npm start
 ```
 
 ## deployed link 
-[weather-app]([https://pages.github.com/](https://weather-app-ajay-rxul-git-main-ajayv2001s-projects.vercel.app/))
+(https://pages.github.com/](https://weather-app-ajay-rxul-git-main-ajayv2001s-projects.vercel.app/)
 
 
 
